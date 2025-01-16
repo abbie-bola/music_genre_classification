@@ -9,3 +9,7 @@ obtain dataset from https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset
 1. Multilayer Perceptron (MLP)
 2. Convoluted Neural Network (CNN)
 3. Reoccurent Neural Network - Long Short Term Memory (RNN-LSTM) Network
+
+### See `jupyter_notebooks` for the results shown when the codes are run
+    + my interpretations of the plotted graphs.
+    + features I implemented/explored on my own, in addition to what was taught in the tutorial.
